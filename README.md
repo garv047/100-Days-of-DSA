@@ -9,6 +9,9 @@ I started this challenge to improve my problem-solving skills and become better 
 ## 📌 Why I Started
 
 To build strong DSA basics
+
 To improve logic and thinking
+
 To prepare for coding interviews
+
 To be consistent in coding
